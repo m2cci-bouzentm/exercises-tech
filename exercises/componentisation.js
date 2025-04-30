@@ -1,5 +1,5 @@
 javascript// Componentization 101 Exercise
-//
+// done
 // This Dashboard component has several issues:
 // 1. It's a monolithic component that does too many things
 // 2. Contains multiple UI sections that should be separate components
